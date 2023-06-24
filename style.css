@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #1f2937;
+    padding: 60px;
+    color: #f9faf8;
+  }
+  
+  h1 {
+    margin: 0;
+
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+    float: right;
+    
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: wheat;
+    padding: 5px;
+    
+  }
+  header.upper{
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+  }
+  section {
+    padding: 20px;
+  }
+  
+  h2 {
+    margin-top: 0;
+    text-align: center;
+  }
+  
+  img {
+  
+    width: 300px;
+    margin-right: 10px;
+    display: flex;
+   
+  }
+  #food{
+    padding: 100px;
+    margin: 75px;
+  } 
+  #testimony{
+    text-align: center;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+  }
+  .author{
+    float: right;
+    font-style: italic;
+  }
+  #contact{
+    background-color: blue;
+    color: #e5e7eb;
+    padding: 50px;
+    margin-top: 75px;
+  }
+  #contact button{
+    color: #e5e7eb;
+    background-color: aqua;
+    border: #e5e7eb;
+  }
